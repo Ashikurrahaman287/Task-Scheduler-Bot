@@ -10,7 +10,7 @@ import (
 var scheduler Scheduler
 
 func main() {
-	bot, err := tgbotapi.NewBotAPI("5356354602:AAHTkJidTp9-pikePAUyJ4Blipu3i4Zqh-E")
+	bot, err := tgbotapi.NewBotAPI("TOKEN")
 	if err != nil {
 		panic(err)
 	}
