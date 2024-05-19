@@ -11,14 +11,9 @@ Task Scheduler is a Go application that allows users to schedule tasks at specif
 - Receive notifications (email/SMS) when tasks are completed.
 - View, add, edit, and delete tasks through a web-based interface.
 
-## Requirements
-
-- Go (version X.X.X)
-- Docker (optional, for containerization)
-
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/task-scheduler.git
+git clone https://github.com/Ashikurrahaman287/Task-Scheduler-Bot
